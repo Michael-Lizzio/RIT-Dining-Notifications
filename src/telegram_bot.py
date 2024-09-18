@@ -113,6 +113,6 @@ class TelegramBot:
 
 
 if __name__ == '__main__':
-    bot_token = '7519080565:AAFEgaNHGOjEyV7ylFhzcQAcdhPGTDG9dlk'
+    bot_token = ""
     bot = TelegramBot(bot_token)
     bot.run()
