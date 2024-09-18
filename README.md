@@ -57,6 +57,3 @@ Whenever you spend money or dining dollars, the system will notify you with your
 - More detailed budgeting analytics.
 - Better user-interface
 - More direct conection to users data
-
-## License
-This project is licensed under the MIT License.
